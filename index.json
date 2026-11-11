@@ -28,14 +28,6 @@
       "directory": "https://fullypowered.ai/capabilities/product-pricing-options/"
     },
     {
-      "id": "product-sample-feedback-revision-list",
-      "name": "Product sample feedback revision list",
-      "version": "0.1.0",
-      "summary": "After each round of samples, your product lead gets one revision list by sample version and feature: the changes people agree on, the feedback that conflicts, and drafted notes for the next supplier brief. The product owner decides.",
-      "path": "product-sample-feedback-revision-list/",
-      "directory": "https://fullypowered.ai/capabilities/product-sample-feedback-revision-list/"
-    },
-    {
       "id": "release-notes-draft",
       "name": "Release notes draft",
       "version": "0.1.0",
