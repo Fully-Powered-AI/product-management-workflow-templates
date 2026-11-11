@@ -1,0 +1,57 @@
+{
+  "id": "assumption-map",
+  "name": "Assumption map",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For a product owner whose plan rests on beliefs nobody has tested: each belief is written down, set against the evidence you hold, ranked by what it would do to the plan, and given a cheap test to choose from. You decide what to test; no evidence is invented.",
+  "directory": "https://fullypowered.ai/capabilities/assumption-map/",
+  "primary_function": "functions/product-management",
+  "functions": [
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/hardware-and-physical-technology",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/new-business-lines",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "business-model-assumptions-review",
+    "premortem-before-a-decision",
+    "offer-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own design, written from its published map of product-management work: a plan broken into items, beliefs tied to the items that depend on them, four evidence statuses set by rule, a ranking that puts what would stop the plan first, tests suited to four kinds of belief, and learning criteria left to the product owner."
+    },
+    {
+      "kind": "third-party",
+      "repository": "panaversity/agentfactory-business-plugins",
+      "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
+      "path": "innovation/skills/canvas/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "The idea of payment or continued use as the bar for calling something proven, which this template turns into its own rule that only something people did or something measured can make a belief held.",
+      "text_reused": false,
+      "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
+    }
+  ]
+}

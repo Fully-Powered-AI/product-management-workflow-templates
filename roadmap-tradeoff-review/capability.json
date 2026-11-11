@@ -1,0 +1,48 @@
+{
+  "id": "roadmap-tradeoff-review",
+  "name": "Roadmap tradeoff review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a new priority arrives, the product owner sees what the roadmap would have to give up to hold it: the capacity gap by team, the work that could move, the commitments and dependencies that move with it, and the questions still open. The owner decides.",
+  "directory": "https://fullypowered.ai/capabilities/roadmap-tradeoff-review/",
+  "primary_function": "functions/product-management",
+  "functions": [
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/hardware-and-physical-technology",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "schedule-recovery-options",
+    "goal-alignment-review",
+    "project-intake-and-capacity-review",
+    "scope-change-impact-review",
+    "decision-log"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of product management work."
+    }
+  ]
+}

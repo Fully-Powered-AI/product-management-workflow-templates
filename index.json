@@ -1,0 +1,55 @@
+{
+  "repository": "Fully-Powered-AI/product-management-capability-templates",
+  "title": "Product Management",
+  "term": "functions/product-management",
+  "capabilities": [
+    {
+      "id": "acceptance-criteria-sheet",
+      "name": "Acceptance criteria sheet",
+      "version": "0.1.0",
+      "summary": "Hand a developer or agency a story with its definition of done written down: testable expected behaviours, error cases and edge cases, each traced to a rule or design state, with the unclear terms and open questions listed for the product owner.",
+      "path": "acceptance-criteria-sheet/",
+      "directory": "https://fullypowered.ai/capabilities/acceptance-criteria-sheet/"
+    },
+    {
+      "id": "assumption-map",
+      "name": "Assumption map",
+      "version": "0.1.0",
+      "summary": "For a product owner whose plan rests on beliefs nobody has tested: each belief is written down, set against the evidence you hold, ranked by what it would do to the plan, and given a cheap test to choose from. You decide what to test; no evidence is invented.",
+      "path": "assumption-map/",
+      "directory": "https://fullypowered.ai/capabilities/assumption-map/"
+    },
+    {
+      "id": "product-pricing-options",
+      "name": "Product pricing options",
+      "version": "0.1.0",
+      "summary": "A product owner weighing how to price or package a product gets one options brief: what each customer group uses, the willingness-to-pay evidence held with stated kept apart from observed, what each option would bill every account, the uncertainties and the tests. It recommends no price.",
+      "path": "product-pricing-options/",
+      "directory": "https://fullypowered.ai/capabilities/product-pricing-options/"
+    },
+    {
+      "id": "release-notes-draft",
+      "name": "Release notes draft",
+      "version": "0.1.0",
+      "summary": "The product owner gets draft release notes for one shipped release, in words users recognize: what is new, changed, removed and fixed, the steps users must take, and the known limitations. Only what was supplied is described. The owner checks and publishes.",
+      "path": "release-notes-draft/",
+      "directory": "https://fullypowered.ai/capabilities/release-notes-draft/"
+    },
+    {
+      "id": "roadmap-tradeoff-review",
+      "name": "Roadmap tradeoff review",
+      "version": "0.1.0",
+      "summary": "When a new priority arrives, the product owner sees what the roadmap would have to give up to hold it: the capacity gap by team, the work that could move, the commitments and dependencies that move with it, and the questions still open. The owner decides.",
+      "path": "roadmap-tradeoff-review/",
+      "directory": "https://fullypowered.ai/capabilities/roadmap-tradeoff-review/"
+    },
+    {
+      "id": "smallest-useful-release-scope",
+      "name": "Smallest useful release scope",
+      "version": "0.1.0",
+      "summary": "A product owner or founder with more features than capacity gets one page: what is in the first release and what is deferred, all tied to one user outcome, with the reason for each cut. The owner decides the scope; no effort is estimated beyond what is supplied.",
+      "path": "smallest-useful-release-scope/",
+      "directory": "https://fullypowered.ai/capabilities/smallest-useful-release-scope/"
+    }
+  ]
+}
