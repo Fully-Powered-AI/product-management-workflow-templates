@@ -1,10 +1,10 @@
 {
   "id": "smallest-useful-release-scope",
   "name": "Smallest useful release scope",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A product owner or founder with more features than capacity gets one page: what is in the first release and what is deferred, all tied to one user outcome, with the reason for each cut. The owner decides the scope; no effort is estimated beyond what is supplied.",
-  "directory": "https://fullypowered.ai/capabilities/smallest-useful-release-scope/",
+  "directory": "https://fullypowered.ai/workflow templates/smallest-useful-release-scope/",
   "primary_function": "functions/product-management",
   "functions": [
     "functions/product-management"

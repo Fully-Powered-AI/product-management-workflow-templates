@@ -1,6 +1,6 @@
 # Assumption map
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -15,7 +15,7 @@ Do not use it:
 - to review the commercial model of a whole business or line; use Business model assumptions review for that;
 - to imagine a decision failing before it is made, with a group in a room; use Premortem before a decision;
 - to judge the wording of an offer to a buyer; use Offer review;
-- for a forecast of demand, revenue, cost or delivery date; this capability makes none;
+- for a forecast of demand, revenue, cost or delivery date; this workflow template makes none;
 - for a legal question about a rule or a partner's terms; the map can list it as a belief, and the right adviser answers it;
 - to judge a person, including whether to hire someone.
 

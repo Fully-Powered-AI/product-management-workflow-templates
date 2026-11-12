@@ -2,7 +2,7 @@
 
 For a product owner whose plan rests on beliefs nobody has tested: each belief is written down, set against the evidence you hold, ranked by what it would do to the plan, and given a cheap test to choose from. You decide what to test; no evidence is invented.
 
-*Capability template · Product management · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/assumption-map/)*
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/assumption-map/)*
 
 ## The outcome
 
@@ -43,7 +43,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [New business lines](https://fullypowered.ai/situations/new-business-lines/), before a team moves onto a line whose demand is assumed.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when what worked at one size is planned for another.
 
-It is not the commercial review of a whole business model: [Business model assumptions review](https://fullypowered.ai/capabilities/business-model-assumptions-review/) does that. It does not imagine the plan failing in a workshop: [Premortem before a decision](https://fullypowered.ai/capabilities/premortem-before-a-decision/) does that. This one starts from the plan's own items and asks what each is standing on.
+It is not the commercial review of a whole business model: [Business model assumptions review](https://fullypowered.ai/workflows/business-model-assumptions-review/) does that. It does not imagine the plan failing in a workshop: [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/) does that. This one starts from the plan's own items and asks what each is standing on.
 
 ## What has to change for your company
 
@@ -51,9 +51,9 @@ Decide who owns the map and who may mark a belief as supported or contradicted. 
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with the template. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with the template. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a plan whose outcome you already know, with the beliefs and evidence written as they stood then, plus hard cases written in advance: a plan item with no belief, evidence with no date, an estimate that points against a belief, a rating outside the scale. The product owner checks every mark and the ranking against the lists before relying on the page. [Offer review](https://fullypowered.ai/capabilities/offer-review/) takes the offer behind a belief further.
+Testing in your environment means running it on a plan whose outcome you already know, with the beliefs and evidence written as they stood then, plus hard cases written in advance: a plan item with no belief, evidence with no date, an estimate that points against a belief, a rating outside the scale. The product owner checks every mark and the ranking against the lists before relying on the page. [Offer review](https://fullypowered.ai/workflows/offer-review/) takes the offer behind a belief further.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -64,11 +64,11 @@ Testing in your environment means running it on a plan whose outcome you already
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -78,12 +78,12 @@ Testing in your environment means running it on a plan whose outcome you already
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Business model assumptions review](https://fullypowered.ai/capabilities/business-model-assumptions-review/)
-- [Premortem before a decision](https://fullypowered.ai/capabilities/premortem-before-a-decision/)
-- [Offer review](https://fullypowered.ai/capabilities/offer-review/)
+- [Business model assumptions review](https://fullypowered.ai/workflow templates/business-model-assumptions-review/)
+- [Premortem before a decision](https://fullypowered.ai/workflow templates/premortem-before-a-decision/)
+- [Offer review](https://fullypowered.ai/workflow templates/offer-review/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

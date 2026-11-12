@@ -1,10 +1,10 @@
 {
   "id": "acceptance-criteria-sheet",
   "name": "Acceptance criteria sheet",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Hand a developer or agency a story with its definition of done written down: testable expected behaviours, error cases and edge cases, each traced to a rule or design state, with the unclear terms and open questions listed for the product owner.",
-  "directory": "https://fullypowered.ai/capabilities/acceptance-criteria-sheet/",
+  "directory": "https://fullypowered.ai/workflow templates/acceptance-criteria-sheet/",
   "primary_function": "functions/product-management",
   "functions": [
     "functions/product-management"

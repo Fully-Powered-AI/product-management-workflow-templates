@@ -1,10 +1,10 @@
 {
   "id": "product-pricing-options",
   "name": "Product pricing options",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A product owner weighing how to price or package a product gets one options brief: what each customer group uses, the willingness-to-pay evidence held with stated kept apart from observed, what each option would bill every account, the uncertainties and the tests. It recommends no price.",
-  "directory": "https://fullypowered.ai/capabilities/product-pricing-options/",
+  "directory": "https://fullypowered.ai/workflow templates/product-pricing-options/",
   "primary_function": "functions/product-management",
   "functions": [
     "functions/product-management",

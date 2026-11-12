@@ -1,6 +1,6 @@
 # Smallest useful release scope: an invented example
 
-*Illustrative example with invented data.* The product, the founder, the features, the efforts and the limit below are all invented. Brindle Rota is an invented rota app for small cafés. First come the inputs the founder supplied, in full, then the page the capability returned.
+*Illustrative example with invented data.* The product, the founder, the features, the efforts and the limit below are all invented. Brindle Rota is an invented rota app for small cafés. First come the inputs the founder supplied, in full, then the page the workflow template returned.
 
 ## The inputs
 

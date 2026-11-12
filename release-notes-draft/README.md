@@ -2,11 +2,11 @@
 
 The product owner gets draft release notes for one shipped release, in words users recognize: what is new, changed, removed and fixed, the steps users must take, and the known limitations. Only what was supplied is described. The owner checks and publishes.
 
-*Capability template · Product management · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/release-notes-draft/)*
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/release-notes-draft/)*
 
 ## The outcome
 
-A release lands, and the people who use the product need to know what is different on their screen today. This capability turns the sheet of what shipped, the known issues and the glossary into one page written for the reader of the notes, not for the team that built the release.
+A release lands, and the people who use the product need to know what is different on their screen today. This workflow template turns the sheet of what shipped, the known issues and the glossary into one page written for the reader of the notes, not for the team that built the release.
 
 Each entry says what the user will notice, who it affects and where to find it. Anything a user has to do, such as moving to a new file format or renaming a column in a spreadsheet, comes first, with the steps in order. Known limitations are stated plainly beside the feature they touch. Work that is planned, switched off for most users or invisible to users is left out, and the draft lists it, with the reason, so the owner can see what was not said.
 
@@ -30,7 +30,7 @@ One draft in a fixed order. The notes for readers come first: what you need to d
 
 The draft describes only what the sheets say. A claim that something is faster or safer appears only with the evidence supplied for it. If the steps for a change that needs user action are missing, the draft says it is not ready, rather than guessing them.
 
-It is not the launch plan, which is the [Launch checklist](https://fullypowered.ai/capabilities/launch-checklist/), and it is not the message to staff about a change inside your own company, which is the [Internal change announcement](https://fullypowered.ai/capabilities/internal-change-announcement/). It is the user-facing account of what changed in the product.
+It is not the launch plan, which is the [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/), and it is not the message to staff about a change inside your own company, which is the [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/). It is the user-facing account of what changed in the product.
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
@@ -51,9 +51,9 @@ Decide who reads the notes and in which place they are published, since that set
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record of that run is published with the template. After an independent review the same day, the template and its example were corrected and the run was repeated on the revised text; the record says what changed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record of that run is published with the template. After an independent review the same day, the template and its example were corrected and the run was repeated on the revised text; the record says what changed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a release your team has already written notes for by hand, with hard cases written in advance: an item marked shipped that users cannot see, a speed claim with no measurement, a change that needs user action but has no steps, a known issue that names a feature missing from the sheet, a feature still behind a switch. The product owner and an engineer check every entry against what shipped before anyone relies on the draft. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a release your team has already written notes for by hand, with hard cases written in advance: an item marked shipped that users cannot see, a speed claim with no measurement, a change that needs user action but has no steps, a known issue that names a feature missing from the sheet, a feature still behind a switch. The product owner and an engineer check every entry against what shipped before anyone relies on the draft. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -64,11 +64,11 @@ Testing in your environment means running it on a release your team has already 
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -78,12 +78,12 @@ Testing in your environment means running it on a release your team has already 
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Launch checklist](https://fullypowered.ai/capabilities/launch-checklist/)
-- [Internal change announcement](https://fullypowered.ai/capabilities/internal-change-announcement/)
-- [Help article from a resolved issue](https://fullypowered.ai/capabilities/help-article-from-a-resolved-issue/)
+- [Launch checklist](https://fullypowered.ai/workflow templates/launch-checklist/)
+- [Internal change announcement](https://fullypowered.ai/workflow templates/internal-change-announcement/)
+- [Help article from a resolved issue](https://fullypowered.ai/workflow templates/help-article-from-a-resolved-issue/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

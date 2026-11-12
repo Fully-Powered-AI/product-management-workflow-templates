@@ -2,7 +2,7 @@
 
 A product owner or founder with more features than capacity gets one page: what is in the first release and what is deferred, all tied to one user outcome, with the reason for each cut. The owner decides the scope; no effort is estimated beyond what is supplied.
 
-*Capability template · Product management · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/smallest-useful-release-scope/)*
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/smallest-useful-release-scope/)*
 
 ## The outcome
 
@@ -42,9 +42,9 @@ Decide the unit of effort and use it everywhere. Choose who is the owner and who
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template in its own words. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template in its own words. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a release you shipped before, with the list as it stood then and cases written in advance: a feature with no effort, a feature that depends on one you would defer, two outcomes in one brief, a list over capacity. The owner and engineering check every placement against the list before anyone relies on it. [Scope change impact review](https://fullypowered.ai/capabilities/scope-change-impact-review/) takes over once the scope is agreed and new work arrives, and [Project scope baseline](https://fullypowered.ai/capabilities/project-scope-baseline/) records an agreed scope for a project.
+Testing in your environment means running it on a release you shipped before, with the list as it stood then and cases written in advance: a feature with no effort, a feature that depends on one you would defer, two outcomes in one brief, a list over capacity. The owner and engineering check every placement against the list before anyone relies on it. [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/) takes over once the scope is agreed and new work arrives, and [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/) records an agreed scope for a project.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -55,11 +55,11 @@ Testing in your environment means running it on a release you shipped before, wi
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -69,12 +69,12 @@ Testing in your environment means running it on a release you shipped before, wi
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Business model assumptions review](https://fullypowered.ai/capabilities/business-model-assumptions-review/)
-- [Project scope baseline](https://fullypowered.ai/capabilities/project-scope-baseline/)
-- [Scope change impact review](https://fullypowered.ai/capabilities/scope-change-impact-review/)
+- [Business model assumptions review](https://fullypowered.ai/workflow templates/business-model-assumptions-review/)
+- [Project scope baseline](https://fullypowered.ai/workflow templates/project-scope-baseline/)
+- [Scope change impact review](https://fullypowered.ai/workflow templates/scope-change-impact-review/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
