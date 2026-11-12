@@ -2,7 +2,7 @@
 
 The product owner gets draft release notes for one shipped release, in words users recognize: what is new, changed, removed and fixed, the steps users must take, and the known limitations. Only what was supplied is described. The owner checks and publishes.
 
-*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/release-notes-draft/)*
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/release-notes-draft/)*
 
 ## The outcome
 
@@ -80,9 +80,9 @@ Testing in your environment means running it on a release your team has already 
 
 ## Related workflow templates
 
-- [Launch checklist](https://fullypowered.ai/workflow templates/launch-checklist/)
-- [Internal change announcement](https://fullypowered.ai/workflow templates/internal-change-announcement/)
-- [Help article from a resolved issue](https://fullypowered.ai/workflow templates/help-article-from-a-resolved-issue/)
+- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/)
+- [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/)
+- [Help article from a resolved issue](https://fullypowered.ai/workflows/help-article-from-a-resolved-issue/)
 
 ## Make it yours
 

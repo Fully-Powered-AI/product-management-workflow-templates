@@ -2,7 +2,7 @@
 
 For a product owner whose plan rests on beliefs nobody has tested: each belief is written down, set against the evidence you hold, ranked by what it would do to the plan, and given a cheap test to choose from. You decide what to test; no evidence is invented.
 
-*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/assumption-map/)*
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/assumption-map/)*
 
 ## The outcome
 
@@ -80,9 +80,9 @@ Testing in your environment means running it on a plan whose outcome you already
 
 ## Related workflow templates
 
-- [Business model assumptions review](https://fullypowered.ai/workflow templates/business-model-assumptions-review/)
-- [Premortem before a decision](https://fullypowered.ai/workflow templates/premortem-before-a-decision/)
-- [Offer review](https://fullypowered.ai/workflow templates/offer-review/)
+- [Business model assumptions review](https://fullypowered.ai/workflows/business-model-assumptions-review/)
+- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/)
+- [Offer review](https://fullypowered.ai/workflows/offer-review/)
 
 ## Make it yours
 

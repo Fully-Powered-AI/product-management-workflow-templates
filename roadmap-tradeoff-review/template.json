@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a new priority arrives, the product owner sees what the roadmap would have to give up to hold it: the capacity gap by team, the work that could move, the commitments and dependencies that move with it, and the questions still open. The owner decides.",
-  "directory": "https://fullypowered.ai/workflow templates/roadmap-tradeoff-review/",
+  "directory": "https://fullypowered.ai/workflows/roadmap-tradeoff-review/",
   "primary_function": "functions/product-management",
   "functions": [
     "functions/product-management"

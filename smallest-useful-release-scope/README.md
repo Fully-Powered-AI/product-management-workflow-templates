@@ -2,7 +2,7 @@
 
 A product owner or founder with more features than capacity gets one page: what is in the first release and what is deferred, all tied to one user outcome, with the reason for each cut. The owner decides the scope; no effort is estimated beyond what is supplied.
 
-*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/smallest-useful-release-scope/)*
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/smallest-useful-release-scope/)*
 
 ## The outcome
 
@@ -71,9 +71,9 @@ Testing in your environment means running it on a release you shipped before, wi
 
 ## Related workflow templates
 
-- [Business model assumptions review](https://fullypowered.ai/workflow templates/business-model-assumptions-review/)
-- [Project scope baseline](https://fullypowered.ai/workflow templates/project-scope-baseline/)
-- [Scope change impact review](https://fullypowered.ai/workflow templates/scope-change-impact-review/)
+- [Business model assumptions review](https://fullypowered.ai/workflows/business-model-assumptions-review/)
+- [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
 
 ## Make it yours
 

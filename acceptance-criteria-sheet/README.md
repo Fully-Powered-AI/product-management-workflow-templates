@@ -2,7 +2,7 @@
 
 Hand a developer or agency a story with its definition of done written down: testable expected behaviours, error cases and edge cases, each traced to a rule or design state, with the unclear terms and open questions listed for the product owner.
 
-*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/acceptance-criteria-sheet/)*
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)*
 
 ## The outcome
 
@@ -73,9 +73,9 @@ Testing in your environment means running it on stories your team has already bu
 
 ## Related workflow templates
 
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
-- [Project handover readiness check](https://fullypowered.ai/workflow templates/project-handover-readiness-check/)
-- [Scope change impact review](https://fullypowered.ai/workflow templates/scope-change-impact-review/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
 
 ## Make it yours
 

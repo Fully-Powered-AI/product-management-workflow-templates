@@ -2,7 +2,7 @@
 
 A product owner weighing how to price or package a product gets one options brief: what each customer group uses, the willingness-to-pay evidence held with stated kept apart from observed, what each option would bill every account, the uncertainties and the tests. It recommends no price.
 
-*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/product-pricing-options/)*
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-pricing-options/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on a pricing question you already s
 
 ## Related workflow templates
 
-- [Price change review](https://fullypowered.ai/workflow templates/price-change-review/)
-- [Offer review](https://fullypowered.ai/workflow templates/offer-review/)
-- [Discount request review](https://fullypowered.ai/workflow templates/discount-request-review/)
+- [Price change review](https://fullypowered.ai/workflows/price-change-review/)
+- [Offer review](https://fullypowered.ai/workflows/offer-review/)
+- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/)
 
 ## Make it yours
 

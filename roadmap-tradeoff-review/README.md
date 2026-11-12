@@ -2,7 +2,7 @@
 
 When a new priority arrives, the product owner sees what the roadmap would have to give up to hold it: the capacity gap by team, the work that could move, the commitments and dependencies that move with it, and the questions still open. The owner decides.
 
-*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/roadmap-tradeoff-review/)*
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/roadmap-tradeoff-review/)*
 
 ## The outcome
 
@@ -72,11 +72,11 @@ Testing in your environment means running it on a past request whose outcome you
 
 ## Related workflow templates
 
-- [Schedule recovery options](https://fullypowered.ai/workflow templates/schedule-recovery-options/)
-- [Goal alignment review](https://fullypowered.ai/workflow templates/goal-alignment-review/)
-- [Project intake and capacity review](https://fullypowered.ai/workflow templates/project-intake-and-capacity-review/)
-- [Scope change impact review](https://fullypowered.ai/workflow templates/scope-change-impact-review/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
+- [Schedule recovery options](https://fullypowered.ai/workflows/schedule-recovery-options/)
+- [Goal alignment review](https://fullypowered.ai/workflows/goal-alignment-review/)
+- [Project intake and capacity review](https://fullypowered.ai/workflows/project-intake-and-capacity-review/)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
 
 ## Make it yours
 

@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "For a product owner whose plan rests on beliefs nobody has tested: each belief is written down, set against the evidence you hold, ranked by what it would do to the plan, and given a cheap test to choose from. You decide what to test; no evidence is invented.",
-  "directory": "https://fullypowered.ai/workflow templates/assumption-map/",
+  "directory": "https://fullypowered.ai/workflows/assumption-map/",
   "primary_function": "functions/product-management",
   "functions": [
     "functions/product-management"
