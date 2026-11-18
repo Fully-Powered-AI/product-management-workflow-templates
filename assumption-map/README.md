@@ -51,11 +51,11 @@ Decide who owns the map and who may mark a belief as supported or contradicted. 
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with the template. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with the template. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a plan whose outcome you already know, with the beliefs and evidence written as they stood then, plus hard cases written in advance: a plan item with no belief, evidence with no date, an estimate that points against a belief, a rating outside the scale. The product owner checks every mark and the ranking against the lists before relying on the page. [Offer review](https://fullypowered.ai/workflows/offer-review/) takes the offer behind a belief further.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -86,4 +86,4 @@ Testing in your environment means running it on a plan whose outcome you already
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

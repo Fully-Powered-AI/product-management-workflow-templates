@@ -25,7 +25,7 @@
     "scope-change-impact-review"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -41,7 +41,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own published map of product-management work, and its own method: an outcome path, six kinds of feature, ordered rules for in and deferred, dependency pull-in, and a capacity check that names what each removal costs without choosing."
+      "title": "FullyPowered AI's own published map of product-management work, and its own method: an outcome path, six kinds of feature, ordered rules for in and deferred, dependency pull-in, and a capacity check that names what each removal costs without choosing."
     }
   ]
 }

@@ -48,11 +48,11 @@ Write your packages and your options as the bill formula the template uses, or t
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, by a model that did not write it, and the record of that run is published with it. The run was not fully blind: part of the example's output had been seen before the brief was written. Edits made after the run have not been run again: observed willingness-to-pay rows are no longer given one range across accepted and declined, several small ambiguities in the template were settled, and the example's uncertainties and tests were corrected. After a second review the instruction block was completed with rules the template already held, the rounding of halves was settled, and the example was made to match the output format; these edits have not been run again either. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, by a model that did not write it, and the record of that run is published with it. The run was not fully blind: part of the example's output had been seen before the brief was written. Edits made after the run have not been run again: observed willingness-to-pay rows are no longer given one range across accepted and declined, several small ambiguities in the template were settled, and the example's uncertainties and tests were corrected. After a second review the instruction block was completed with rules the template already held, the rounding of halves was settled, and the example was made to match the output format; these edits have not been run again either. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a pricing question you already settled, with hard cases written in advance: a renamed column, a cost nobody approved, research rows that are too old, an option that does not fit the formula. The product owner recomputes every bill by hand before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -83,4 +83,4 @@ Testing in your environment means running it on a pricing question you already s
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

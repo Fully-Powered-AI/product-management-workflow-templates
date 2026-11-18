@@ -25,7 +25,7 @@
     "offer-review"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -41,7 +41,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own design, written from its published map of product-management work: a plan broken into items, beliefs tied to the items that depend on them, four evidence statuses set by rule, a ranking that puts what would stop the plan first, tests suited to four kinds of belief, and learning criteria left to the product owner."
+      "title": "FullyPowered AI's own design, written from its published map of product-management work: a plan broken into items, beliefs tied to the items that depend on them, four evidence statuses set by rule, a ranking that puts what would stop the plan first, tests suited to four kinds of belief, and learning criteria left to the product owner."
     },
     {
       "kind": "third-party",

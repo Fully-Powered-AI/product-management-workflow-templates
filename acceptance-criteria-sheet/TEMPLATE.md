@@ -198,4 +198,4 @@ employment terms in the story and mark that part for the owner.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried once on its invented example; changed after an independent review the same day and not run again (see `public/trial.md`). Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example; changed after an independent review the same day and not run again (see `public/trial.md`). Not yet tested in a client environment.
