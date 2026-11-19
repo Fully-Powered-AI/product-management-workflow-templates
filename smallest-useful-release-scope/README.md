@@ -8,7 +8,7 @@ Turn a long feature list into one page: what is in the first release and what is
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/smallest-useful-release-scope/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope)*
@@ -33,7 +33,7 @@ The product owner, or the founder who does that work, starts it when the list of
 
 One page: the outcome and its path, the features in scope with the reason each is in, the features deferred with the reason each is out and what happens meanwhile, a capacity check from the supplied figures only, the questions the page cannot settle, what engineering is asked to confirm, and a line for the owner’s decision. Blank effort is shown as not supplied, never filled in.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -51,7 +51,7 @@ Decide the unit of effort and use it everywhere. Choose who is the owner and who
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a release you shipped before, with the list as it stood then and cases written in advance: a feature with no effort, a feature that depends on one you would defer, two outcomes in one brief, a list over capacity. The owner and engineering check every placement against the list before anyone relies on it. [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope) takes over once the scope is agreed and new work arrives, and [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope) records an agreed scope for a project.
 
@@ -59,13 +59,13 @@ Testing in your environment means running it on a release you shipped before, wi
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

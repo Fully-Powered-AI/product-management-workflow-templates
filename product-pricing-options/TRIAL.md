@@ -1,10 +1,10 @@
-# Product pricing options: trial on the invented example
+# Product pricing options: trial on the example
 
 - **Product:** Claude, run in Claude Code
 
 Model: Claude Sonnet 5.5 (model ID `claude-sonnet-5-5`). Date: 2026-11-10.
 
-The inputs were the invented example's: Company A and Product X, ten made-up accounts, three made-up cost rows and eight made-up research rows. No client data was used. The inputs are the ones under "What the product owner supplies" in [the example](example.md): the package definitions, usage export, cost inputs, research log, the two options and the settings (nothing set, so every default applied). The instructions followed were the fenced block in the template and its output format. The model that ran the trial did not write the template.
+The inputs were the example's: Company A and Product X, ten made-up accounts, three made-up cost rows and eight made-up research rows. No client data was used. The inputs are the ones under "What the product owner supplies" in [the example](example.md): the package definitions, usage export, cost inputs, research log, the two options and the settings (nothing set, so every default applied). The instructions followed were the fenced block in the template and its output format. The model that ran the trial did not write the template.
 
 ## What came out
 
@@ -139,7 +139,7 @@ Shortcomings of the template found in this trial:
 - The fenced instruction block does not contain the exact wording of the output format, and nothing in the block says where "Checks" findings go; the trial followed the format section.
 - The template's own acceptance test 1 is only as strong as the example: it was checked here against figures, not against wording.
 
-This is one run, in one product, on one invented example. It is not a test for a client, and it does not show how the template behaves in ChatGPT, Copilot or Gemini.
+This is one run, in one product, on one example. It is not a test for a client, and it does not show how the template behaves in ChatGPT, Copilot or Gemini.
 
 ## Changes made after this run, not run again
 

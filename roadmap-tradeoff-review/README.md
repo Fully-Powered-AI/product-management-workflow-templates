@@ -8,7 +8,7 @@ See what the roadmap would give up to hold a new priority: the capacity gap by t
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/roadmap-tradeoff-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-roadmap-tradeoff-review&from=gh-roadmap-tradeoff-review)*
@@ -35,7 +35,7 @@ The product owner starts it when a request, a customer need or a new dependency 
 
 One page in a fixed order. It states the request and its effort by team, the capacity position of each team, a proposed set of displaced items with an alternative where one exists, the items that are not offered and why, the commitments touched, the dependencies left unresolved, a check against the goals, and the open questions with who can answer each. Displaced work gets no new date. It ends with the decision for the product owner.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -52,7 +52,7 @@ Decide your planning window and your unit of effort. Set whether committed items
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It has not yet been tested in a client environment. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it, and lists the ambiguities it met.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It has not yet been tested in a client environment. It was tried once on its example in Claude on 10 November 2026; the record of that run is published with it, and lists the ambiguities it met.
 
 Testing in your environment means running it on a past request whose outcome you already know, with the capacity and ranking as they stood then. The product owner checks every figure against the tracker and the capacity sheet before anyone relies on it. [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-roadmap-tradeoff-review&from=gh-roadmap-tradeoff-review) keeps the record once the owner has decided.
 
@@ -60,13 +60,13 @@ Testing in your environment means running it on a past request whose outcome you
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

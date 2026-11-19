@@ -8,7 +8,7 @@ Get draft release notes for one shipped release in words users recognize: new, c
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/release-notes-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft)*
@@ -41,7 +41,7 @@ The draft describes only what the sheets say. A claim that something is faster o
 
 It is not the launch plan, which is the [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft), and it is not the message to staff about a change inside your own company, which is the [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft). It is the user-facing account of what changed in the product.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -60,7 +60,7 @@ Decide who reads the notes and in which place they are published, since that set
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record of that run is published with the template. After an independent review the same day, the template and its example were corrected and the run was repeated on the revised text; the record says what changed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026, and the record of that run is published with the template. After an independent review the same day, the template and its example were corrected and the run was repeated on the revised text; the record says what changed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a release your team has already written notes for by hand, with hard cases written in advance: an item marked shipped that users cannot see, a speed claim with no measurement, a change that needs user action but has no steps, a known issue that names a feature missing from the sheet, a feature still behind a switch. The product owner and an engineer check every entry against what shipped before anyone relies on the draft. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft) describes the record we keep.
 
@@ -68,13 +68,13 @@ Testing in your environment means running it on a release your team has already 
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

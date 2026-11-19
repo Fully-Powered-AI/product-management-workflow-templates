@@ -1,6 +1,6 @@
-# Roadmap tradeoff review: an invented example
+# Roadmap tradeoff review: an example
 
-*Illustrative example with invented data.* An invented 30-person software company, Company X, is asked for single sign-on in the middle of its first quarter. Every name, item and figure below is made up. Effort is in person-weeks (pw).
+*Illustrative example with sample data.* An illustrative 30-person software company, Company X, is asked for single sign-on in the middle of its first quarter. Every name, item and figure below is made up. Effort is in person-weeks (pw).
 
 ## What the product owner supplies
 

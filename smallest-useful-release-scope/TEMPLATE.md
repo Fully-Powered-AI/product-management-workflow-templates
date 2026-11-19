@@ -216,4 +216,4 @@ Never move a feature to make the total fit. If asked to, decline.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example on 10 November 2026 in Claude; the record is published with it. Edits made to the pasted instructions, the output format and the reviewer checklist after that run have not been run again; the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its example on 10 November 2026 in Claude; the record is published with it. Edits made to the pasted instructions, the output format and the reviewer checklist after that run have not been run again; the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

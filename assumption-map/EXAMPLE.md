@@ -1,6 +1,6 @@
-# Assumption map: an invented example
+# Assumption map: an example
 
-*Illustrative example with invented data.* The company, its customers, its people and every date and figure below are invented. "Company A" is an invented software company whose invoicing app is used by small trades businesses, and its product owner is planning a paid add-on that lets a customer attach job photos to an invoice. People appear by role only. First come the four inputs the product owner supplies (the brief, the plan, the beliefs and the evidence), then the map.
+*Illustrative example with sample data.* The company, its customers, its people and every date and figure below are illustrative. "Company A" is an illustrative software company whose invoicing app is used by small trades businesses, and its product owner is planning a paid add-on that lets a customer attach job photos to an invoice. People appear by role only. First come the four inputs the product owner supplies (the brief, the plan, the beliefs and the evidence), then the map.
 
 ## The inputs
 

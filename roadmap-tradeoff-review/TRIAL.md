@@ -1,10 +1,10 @@
-# Trial: Roadmap tradeoff review on its own invented example
+# Trial: Roadmap tradeoff review on its own example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (the single sign-on request at "Company X"). No client data was used. This is the second run, made after the template's instruction block, output format and example were revised following a review. It was one pass, by the assistant that made those revisions, so it is not an independent run.
+The inputs are the example in `public/example.md` (the single sign-on request at "Company X"). No client data was used. This is the second run, made after the template's instruction block, output format and example were revised following a review. It was one pass, by the assistant that made those revisions, so it is not an independent run.
 
 ## Inputs used
 

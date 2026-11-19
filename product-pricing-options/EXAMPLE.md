@@ -1,6 +1,6 @@
-# Product pricing options: an invented example
+# Product pricing options: an example
 
-*Illustrative example with invented data.* Company A is an invented software business. Product X is its invented tool that turns client briefs into formatted documents. Every account, price and note below is made up to show the shape of the result. Prices and bills are per month, in dollars.
+*Illustrative example with sample data.* Company A is an illustrative software business. Product X is its illustrative tool that turns client briefs into formatted documents. Every account, price and note below is made up to show the shape of the result. Prices and bills are per month, in dollars.
 
 ## What the product owner supplies
 

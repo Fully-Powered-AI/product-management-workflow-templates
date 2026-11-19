@@ -8,7 +8,7 @@ Write down the beliefs behind your plan, set them against your evidence and rank
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/assumption-map/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map)*
@@ -40,7 +40,7 @@ One page in a fixed order. The plan with the beliefs under each item and their m
 
 Where something is missing, such as a plan item with no belief or evidence with no date, the page says so and asks. It never fills the gap itself.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -60,7 +60,7 @@ Decide who owns the map and who may mark a belief as supported or contradicted. 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with the template. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record is published with the template. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a plan whose outcome you already know, with the beliefs and evidence written as they stood then, plus hard cases written in advance: a plan item with no belief, evidence with no date, an estimate that points against a belief, a rating outside the scale. The product owner checks every mark and the ranking against the lists before relying on the page. [Offer review](https://fullypowered.ai/workflows/offer-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map) takes the offer behind a belief further.
 
@@ -68,13 +68,13 @@ Testing in your environment means running it on a plan whose outcome you already
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

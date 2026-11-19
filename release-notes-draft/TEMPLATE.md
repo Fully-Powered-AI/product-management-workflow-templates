@@ -138,7 +138,7 @@ This draft was prepared on [date] from the release brief, the release items, the
 
 ## Acceptance tests
 
-Proposed tests. Only test 1 has been run, on the invented example; its record is published with the template.
+Proposed tests. Only test 1 has been run, on the example; its record is published with the template.
 
 1. **Normal release.** Eight items and three known issues. Expected: all eleven sections complete; unshipped and unexplained items held out; steps copied unchanged.
 2. **Renamed header.** The items sheet has `description` in place of `what_changed_for_users`. Expected: stops, shows expected and found headers, asks.
@@ -268,4 +268,4 @@ Paste this block as custom instructions, followed by the output format above.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026; the record is published with the template. After that run, an independent review led to edits the same day (a rule for repeated codes, a loose match for readers, one reason for each held-out item, a question for every held-out status, the sheet's wording winning over the brief's tone, and a fuller instruction block), and the run was repeated on the revised text. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its example in Claude on 10 November 2026; the record is published with the template. After that run, an independent review led to edits the same day (a rule for repeated codes, a loose match for readers, one reason for each held-out item, a question for every held-out status, the sheet's wording winning over the brief's tone, and a fuller instruction block), and the run was repeated on the revised text. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

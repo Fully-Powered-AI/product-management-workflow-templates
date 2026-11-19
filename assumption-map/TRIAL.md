@@ -1,10 +1,10 @@
-# Assumption map: tried once on its invented example
+# Assumption map: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (the brief, the plan of six items, the seven beliefs and the eight evidence rows). No client data was used. The run was done once by a model that had not written the template. It read the template and only the inputs of the example, followed the instruction block and the output format, and only then read the example's published output and the reviewer checklist.
+The inputs are the example in `public/example.md` (the brief, the plan of six items, the seven beliefs and the eight evidence rows). No client data was used. The run was done once by a model that had not written the template. It read the template and only the inputs of the example, followed the instruction block and the output format, and only then read the example's published output and the reviewer checklist.
 
 ## What came out
 
@@ -145,7 +145,7 @@ Prepared for the Product owner's decision. Nothing has been decided, tested, sen
 - Where the instructions left room: the exact wording of the questions is not fixed, so two runs will differ there. The question about an out-of-date item is open to being read as asking whether the belief is still true, which the template says the assistant must not judge; this run chose to ask for a newer item instead, and the published example's "Is it still true" wording is a little closer to the line than it should be. The pattern for the "Suggested" label and the second choice is given only by example in the format, not by a rule, so it was copied from the format text. The instruction block says "12 months" while the full template says "[your evidence age limit]"; they agree on the default, and the run used 12.
 - Small points: the output format says "Product owner: [role]" and the brief's role is itself "Product owner", which reads a little doubled in the output. A belief with only a contradicting estimate (B04) is marked THIN and so has no "Latest supporting item"; the template is consistent about this, but a reader may find it odd that an engineering estimate that argues against the plan leaves the belief merely thin. That follows the rule on purpose: an estimate is not behaviour or measured.
 - Facts not in the inputs: none in this run's output or the published example. Every figure, date and id was repeated as typed. The weekday names (Tuesday 10 November 2026, Friday 20 November 2026) come from the brief.
-- This is one run by one model on one invented example. It shows the template can be followed to a complete and correct map on that example. It does not show how it behaves on a client's real lists, or in other products.
+- This is one run by one model on one example. It shows the template can be followed to a complete and correct map on that example. It does not show how it behaves on a client's real lists, or in other products.
 
 ## Changed after the run, and not run again
 

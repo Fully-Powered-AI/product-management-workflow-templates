@@ -1,6 +1,6 @@
-# Release notes draft: an invented example
+# Release notes draft: an example
 
-*Illustrative example with invented data.* Fennel Rota is an invented shift-planning web app for small shops and cafes. Its product owner needs the notes for release 4.2. Everything below, the product, the people, the items and every date, is invented.
+*Illustrative example with sample data.* Fennel Rota is an illustrative shift-planning web app for small shops and cafes. Its product owner needs the notes for release 4.2. Everything below, the product, the people, the items and every date, is illustrative.
 
 ## What the person supplies
 

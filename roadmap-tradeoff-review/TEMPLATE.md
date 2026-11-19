@@ -201,4 +201,4 @@ Paste this block as custom instructions, followed by the output format above.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 10 November 2026; the record is published with it. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its example in Claude on 10 November 2026; the record is published with it. Not yet tested in a client environment.

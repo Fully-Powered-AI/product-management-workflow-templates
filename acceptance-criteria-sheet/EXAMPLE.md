@@ -1,6 +1,6 @@
-# Acceptance criteria sheet: an invented example
+# Acceptance criteria sheet: an example
 
-*Illustrative example with invented data.* The company, the shop and every figure are made up. A product owner at an invented online garden shop, Larkfield Garden Supplies, is handing one story to an outside developer.
+*Illustrative example with sample data.* The company, the shop and every figure are made up. A product owner at an illustrative online garden shop, Larkfield Garden Supplies, is handing one story to an outside developer.
 
 ## What the person supplies
 

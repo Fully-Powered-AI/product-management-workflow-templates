@@ -1,10 +1,10 @@
-# Release notes draft: tried on its invented example
+# Release notes draft: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Fennel Rota 4.2: the release brief, eight release items, three known issues and a four-row glossary). No client data was used. The assistant did not write the template. It followed the fenced instruction block and the output format in `member/template.md` as they stand after the review edits described below.
+The inputs are the example in `public/example.md` (Fennel Rota 4.2: the release brief, eight release items, three known issues and a four-row glossary). No client data was used. The assistant did not write the template. It followed the fenced instruction block and the output format in `member/template.md` as they stand after the review edits described below.
 
 History of this record. The template was first run once on 10 November 2026. An independent review the same day found that the published example added words that were not in the inputs, and found gaps in the instructions. The template and the example were then corrected, and the run was repeated on the revised text. The record below is of the repeated run. The first run's observations that led to the edits are summarised under "Corrections made after the first run".
 

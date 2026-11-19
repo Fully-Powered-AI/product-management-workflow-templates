@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented Brindle Rota example (the brief and the sixteen-row feature list in `public/example.md`). No client data was used. The assistant was given the complete template and the example's inputs only; it had not seen the example's output when it produced its own. It followed the instruction block and the output format as written. This was one run, by a model that did not write the template.
+The inputs were the illustrative Brindle Rota example (the brief and the sixteen-row feature list in `public/example.md`). No client data was used. The assistant was given the complete template and the example's inputs only; it had not seen the example's output when it produced its own. It followed the instruction block and the output format as written. This was one run, by a model that did not write the template.
 
 ## What came out
 
@@ -64,7 +64,7 @@ Decision for the owner: left blank. The closing line was printed as specified.
 - **"At least"** is required when an effort is missing; no row in this example is missing one, so that path, and the stop conditions, were not exercised.
 - **The date.** "Prepared [date]" has no stated source. The run used the brief's review date.
 
-Nothing was sent, changed or scheduled. This run shows the template works on its own invented example. It does not show how it performs on a real company's list.
+Nothing was sent, changed or scheduled. This run shows the template works on its own example. It does not show how it performs on a real company's list.
 
 ### Edits made after this run
 

@@ -115,7 +115,7 @@ Every criterion is a proposal until the product owner confirms it.
 
 Proposed tests. Test 1 was run once, by an assistant, on an earlier form of this template; that record is in `public/trial.md`, and the template has changed since and has not been run again. Tests 2 to 9 have not been run.
 
-1. **Worked example.** Use the invented example in this folder. Expected: criteria with the same figures ($6.00 and $54.00 on a $60.00* basket; a $25.00 cap on $400.00*; $4.00 at exactly $40.00), amounts picked by the assistant marked * and listed, the twelve blocked criteria the example lists, a criterion at each end of the SAVE10 date range and one step above the $40.00 and $250.00 limits, a split suggestion because 21 is above 15, and a coverage line with no gaps.
+1. **Worked example.** Use the example in this folder. Expected: criteria with the same figures ($6.00 and $54.00 on a $60.00* basket; a $25.00 cap on $400.00*; $4.00 at exactly $40.00), amounts picked by the assistant marked * and listed, the twelve blocked criteria the example lists, a criterion at each end of the SAVE10 date range and one step above the $40.00 and $250.00 limits, a split suggestion because 21 is above 15, and a coverage line with no gaps.
 2. **Missing rule figure.** Remove R4's $40.00 from the example. Expected: no minimum is invented; the minimum criteria are blocked with a question.
 3. **Vague word.** Add "an intuitive Remove link" to S2. Expected: a term that needs a number, and a blocked criterion.
 4. **Conflict.** Change R5 to a 15% discount while a design state reads "−$6.00" on $60.00. Expected: a conflict naming both; neither chosen.
@@ -198,4 +198,4 @@ employment terms in the story and mark that part for the owner.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its invented example; changed after an independent review the same day and not run again (see `public/trial.md`). Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried once on its example; changed after an independent review the same day and not run again (see `public/trial.md`). Not yet tested in a client environment.
