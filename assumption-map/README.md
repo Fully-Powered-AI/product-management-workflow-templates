@@ -1,10 +1,17 @@
 # Assumption map
 
-For a product owner whose plan rests on beliefs nobody has tested: each belief is written down, set against the evidence you hold, ranked by what it would do to the plan, and given a cheap test to choose from. You decide what to test; no evidence is invented.
+Write down the beliefs behind your plan, set them against your evidence and rank them, with a cheap test for each. You decide what to test.
 
-*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/assumption-map/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Assumption map on our website](https://fullypowered.ai/workflows/assumption-map/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/assumption-map/?from=gh-product-management-assumption-map)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/assumption-map/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map)*
 
 ## The outcome
 
@@ -37,15 +44,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Product management](https://fullypowered.ai/functions/product-management/), when a roadmap item, launch or build rests on things no one has yet checked.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where a feature plan often runs ahead of what customers have been seen to do.
-- [Hardware & physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/), where a wrong belief about supply, build or fit is dear to correct once tooling starts.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), when a new product or format is planned around how shoppers are assumed to behave.
-- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where most of the plan is still belief.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), before a team moves onto a line whose demand is assumed.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when what worked at one size is planned for another.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map), when a roadmap item, launch or build rests on things no one has yet checked.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map), where a feature plan often runs ahead of what customers have been seen to do.
+- [Hardware & physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map), where a wrong belief about supply, build or fit is dear to correct once tooling starts.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map), when a new product or format is planned around how shoppers are assumed to behave.
+- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map), where most of the plan is still belief.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map), before a team moves onto a line whose demand is assumed.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map), when what worked at one size is planned for another.
 
-It is not the commercial review of a whole business model: [Business model assumptions review](https://fullypowered.ai/workflows/business-model-assumptions-review/) does that. It does not imagine the plan failing in a workshop: [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/) does that. This one starts from the plan's own items and asks what each is standing on.
+It is not the commercial review of a whole business model: [Business model assumptions review](https://fullypowered.ai/workflows/business-model-assumptions-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map) does that. It does not imagine the plan failing in a workshop: [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map) does that. This one starts from the plan's own items and asks what each is standing on.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ Decide who owns the map and who may mark a belief as supported or contradicted. 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with the template. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a plan whose outcome you already know, with the beliefs and evidence written as they stood then, plus hard cases written in advance: a plan item with no belief, evidence with no date, an estimate that points against a belief, a rating outside the scale. The product owner checks every mark and the ranking against the lists before relying on the page. [Offer review](https://fullypowered.ai/workflows/offer-review/) takes the offer behind a belief further.
+Testing in your environment means running it on a plan whose outcome you already know, with the beliefs and evidence written as they stood then, plus hard cases written in advance: a plan item with no belief, evidence with no date, an estimate that points against a belief, a rating outside the scale. The product owner checks every mark and the ranking against the lists before relying on the page. [Offer review](https://fullypowered.ai/workflows/offer-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map) takes the offer behind a belief further.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,10 +89,10 @@ Testing in your environment means running it on a plan whose outcome you already
 
 ## Related workflow templates
 
-- [Business model assumptions review](https://fullypowered.ai/workflows/business-model-assumptions-review/)
-- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/)
-- [Offer review](https://fullypowered.ai/workflows/offer-review/)
+- [Business model assumptions review](https://fullypowered.ai/workflows/business-model-assumptions-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map)
+- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map)
+- [Offer review](https://fullypowered.ai/workflows/offer-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-assumption-map&from=gh-product-management-assumption-map).

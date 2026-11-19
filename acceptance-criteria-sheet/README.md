@@ -1,10 +1,17 @@
 # Acceptance criteria sheet
 
-Hand a developer or agency a story with its definition of done written down: testable expected behaviours, error cases and edge cases, each traced to a rule or design state, with the unclear terms and open questions listed for the product owner.
+A story handed over with its definition of done: testable behaviours, error and edge cases, and open questions. The product owner confirms every line.
 
-*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Acceptance criteria sheet on our website](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?from=gh-acceptance-criteria-sheet)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet)*
 
 ## The outcome
 
@@ -31,14 +38,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Product management](https://fullypowered.ai/functions/product-management/), where a story is only as clear as the definition of done beside it.
-- [Software & technology](https://fullypowered.ai/industries/software-technology/), for teams handing stories to engineers or an outside studio.
-- [E-commerce & retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where checkout, pricing and fulfilment rules produce many edge cases.
-- [Hardware & physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/), for companion apps and device settings with states that must be pinned down.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where a founder is the product owner and the developer is a contractor.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more people touch each story and unwritten assumptions start to cost time.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet), where a story is only as clear as the definition of done beside it.
+- [Software & technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet), for teams handing stories to engineers or an outside studio.
+- [E-commerce & retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet), where checkout, pricing and fulfilment rules produce many edge cases.
+- [Hardware & physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet), for companion apps and device settings with states that must be pinned down.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet), where a founder is the product owner and the developer is a contractor.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet), when more people touch each story and unwritten assumptions start to cost time.
 
-This is different from [pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/), which readies a decision on an operations pilot, and from [project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/), which checks a finished project before it changes hands. This one defines done for a single story before it is built.
+This is different from [pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet), which readies a decision on an operations pilot, and from [project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet), which checks a finished project before it changes hands. This one defines done for a single story before it is built.
 
 ## What has to change for your company
 
@@ -75,10 +82,10 @@ Testing in your environment means running it on stories your team has already bu
 
 ## Related workflow templates
 
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
-- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/)
-- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet)
+- [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-acceptance-criteria-sheet&from=gh-acceptance-criteria-sheet).

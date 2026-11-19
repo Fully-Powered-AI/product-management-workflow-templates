@@ -1,10 +1,17 @@
 # Product pricing options
 
-A product owner weighing how to price or package a product gets one options brief: what each customer group uses, the willingness-to-pay evidence held with stated kept apart from observed, what each option would bill every account, the uncertainties and the tests. It recommends no price.
+Get one options brief that bills every account under each pricing option and keeps stated and observed evidence apart. A person decides the price.
 
-*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-pricing-options/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Product pricing options on our website](https://fullypowered.ai/workflows/product-pricing-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/product-pricing-options/?from=gh-product-pricing-options)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-pricing-options/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options)*
 
 ## The outcome
 
@@ -32,17 +39,17 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Product management](https://fullypowered.ai/functions/product-management/), where pricing and packaging sit beside scope and priorities.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which approves the cost inputs and the margin the options leave.
-- [Sales](https://fullypowered.ai/functions/sales/), which holds many of the quotes won and lost that count as evidence.
-- [Software & technology](https://fullypowered.ai/industries/software-technology/), where packages scale with seats and usage.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where a pack size or a subscription plan is a pricing choice.
-- [E-commerce & retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where bundles and memberships are weighed the same way.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when a first price has to be set with little history.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when packages no longer fit the customers who have arrived.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), when the first paying customers are the only evidence.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options), where pricing and packaging sit beside scope and priorities.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options), which approves the cost inputs and the margin the options leave.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options), which holds many of the quotes won and lost that count as evidence.
+- [Software & technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options), where packages scale with seats and usage.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options), where a pack size or a subscription plan is a pricing choice.
+- [E-commerce & retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options), where bundles and memberships are weighed the same way.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options), when a first price has to be set with little history.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options), when packages no longer fit the customers who have arrived.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options), when the first paying customers are the only evidence.
 
-To check what a change to a price already in the market does to margin and sales, use [price change review](https://fullypowered.ai/workflows/price-change-review/). To look at how a packaged offer reads to a buyer, use [offer review](https://fullypowered.ai/workflows/offer-review/). To weigh a discount request, use [discount request review](https://fullypowered.ai/workflows/discount-request-review/).
+To check what a change to a price already in the market does to margin and sales, use [price change review](https://fullypowered.ai/workflows/price-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options). To look at how a packaged offer reads to a buyer, use [offer review](https://fullypowered.ai/workflows/offer-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options). To weigh a discount request, use [discount request review](https://fullypowered.ai/workflows/discount-request-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options).
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Write your packages and your options as the bill formula the template uses, or t
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, by a model that did not write it, and the record of that run is published with it. The run was not fully blind: part of the example's output had been seen before the brief was written. Edits made after the run have not been run again: observed willingness-to-pay rows are no longer given one range across accepted and declined, several small ambiguities in the template were settled, and the example's uncertainties and tests were corrected. After a second review the instruction block was completed with rules the template already held, the rounding of halves was settled, and the example was made to match the output format; these edits have not been run again either. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a pricing question you already settled, with hard cases written in advance: a renamed column, a cost nobody approved, research rows that are too old, an option that does not fit the formula. The product owner recomputes every bill by hand before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a pricing question you already settled, with hard cases written in advance: a renamed column, a cost nobody approved, research rows that are too old, an option that does not fit the formula. The product owner recomputes every bill by hand before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,10 +86,10 @@ Testing in your environment means running it on a pricing question you already s
 
 ## Related workflow templates
 
-- [Price change review](https://fullypowered.ai/workflows/price-change-review/)
-- [Offer review](https://fullypowered.ai/workflows/offer-review/)
-- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/)
+- [Price change review](https://fullypowered.ai/workflows/price-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options)
+- [Offer review](https://fullypowered.ai/workflows/offer-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options)
+- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-product-pricing-options&from=gh-product-pricing-options).

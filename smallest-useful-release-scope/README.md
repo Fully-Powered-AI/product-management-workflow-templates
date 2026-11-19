@@ -1,10 +1,17 @@
 # Smallest useful release scope
 
-A product owner or founder with more features than capacity gets one page: what is in the first release and what is deferred, all tied to one user outcome, with the reason for each cut. The owner decides the scope; no effort is estimated beyond what is supplied.
+Turn a long feature list into one page: what is in the first release and what is deferred, with the reason for each cut. The owner decides the scope.
 
-*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/smallest-useful-release-scope/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Smallest useful release scope on our website](https://fullypowered.ai/workflows/smallest-useful-release-scope/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/smallest-useful-release-scope/?from=gh-smallest-useful-release-scope)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/smallest-useful-release-scope/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope)*
 
 ## The outcome
 
@@ -30,13 +37,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Product management](https://fullypowered.ai/functions/product-management/), where the first release is the first test of what customers value.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where the list is always longer than the sprint.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), when a brand launches its first app or digital service.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), when a store feature has to ship before a season.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where the first release is most of the budget.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when an established company builds a first version of something new.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when requests arrive faster than the team can ship them.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope), where the first release is the first test of what customers value.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope), where the list is always longer than the sprint.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope), when a brand launches its first app or digital service.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope), when a store feature has to ship before a season.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope), where the first release is most of the budget.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope), when an established company builds a first version of something new.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope), when requests arrive faster than the team can ship them.
 
 ## What has to change for your company
 
@@ -46,7 +53,7 @@ Decide the unit of effort and use it everywhere. Choose who is the owner and who
 
 FullyPowered AI wrote this workflow template in its own words. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a release you shipped before, with the list as it stood then and cases written in advance: a feature with no effort, a feature that depends on one you would defer, two outcomes in one brief, a list over capacity. The owner and engineering check every placement against the list before anyone relies on it. [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/) takes over once the scope is agreed and new work arrives, and [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/) records an agreed scope for a project.
+Testing in your environment means running it on a release you shipped before, with the list as it stood then and cases written in advance: a feature with no effort, a feature that depends on one you would defer, two outcomes in one brief, a list over capacity. The owner and engineering check every placement against the list before anyone relies on it. [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope) takes over once the scope is agreed and new work arrives, and [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope) records an agreed scope for a project.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -73,10 +80,10 @@ Testing in your environment means running it on a release you shipped before, wi
 
 ## Related workflow templates
 
-- [Business model assumptions review](https://fullypowered.ai/workflows/business-model-assumptions-review/)
-- [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/)
-- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/)
+- [Business model assumptions review](https://fullypowered.ai/workflows/business-model-assumptions-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope)
+- [Project scope baseline](https://fullypowered.ai/workflows/project-scope-baseline/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope)
+- [Scope change impact review](https://fullypowered.ai/workflows/scope-change-impact-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-smallest-useful-release-scope&from=gh-smallest-useful-release-scope).

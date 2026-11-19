@@ -1,10 +1,17 @@
 # Release notes draft
 
-The product owner gets draft release notes for one shipped release, in words users recognize: what is new, changed, removed and fixed, the steps users must take, and the known limitations. Only what was supplied is described. The owner checks and publishes.
+Get draft release notes for one shipped release in words users recognize: new, changed, removed, fixed and user steps. The owner checks and publishes.
 
-*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/release-notes-draft/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Release notes draft on our website](https://fullypowered.ai/workflows/release-notes-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/release-notes-draft/?from=gh-release-notes-draft)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/release-notes-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft)*
 
 ## The outcome
 
@@ -32,20 +39,20 @@ One draft in a fixed order. The notes for readers come first: what you need to d
 
 The draft describes only what the sheets say. A claim that something is faster or safer appears only with the evidence supplied for it. If the steps for a change that needs user action are missing, the draft says it is not ready, rather than guessing them.
 
-It is not the launch plan, which is the [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/), and it is not the message to staff about a change inside your own company, which is the [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/). It is the user-facing account of what changed in the product.
+It is not the launch plan, which is the [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft), and it is not the message to staff about a change inside your own company, which is the [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft). It is the user-facing account of what changed in the product.
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Product management](https://fullypowered.ai/functions/product-management/), where the owner has to turn a list of shipped work into something users can follow.
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/), where the first questions after a release come from what the notes left unsaid.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where releases are frequent and users meet the change before they read about it.
-- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/), where an update to firmware or an app companion needs steps a customer can follow.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a change to a store's tools or integrations has to be explained to the shop's own staff.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where an app or portal update reaches customers who will never read a technical changelog.
-- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where the founder writes the notes between other tasks on the same afternoon.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when release frequency outgrows notes written from memory.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft), where the owner has to turn a list of shipped work into something users can follow.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft), where the first questions after a release come from what the notes left unsaid.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft), where releases are frequent and users meet the change before they read about it.
+- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft), where an update to firmware or an app companion needs steps a customer can follow.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft), where a change to a store's tools or integrations has to be explained to the shop's own staff.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft), where an app or portal update reaches customers who will never read a technical changelog.
+- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft), where the founder writes the notes between other tasks on the same afternoon.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft), when release frequency outgrows notes written from memory.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ Decide who reads the notes and in which place they are published, since that set
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record of that run is published with the template. After an independent review the same day, the template and its example were corrected and the run was repeated on the revised text; the record says what changed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a release your team has already written notes for by hand, with hard cases written in advance: an item marked shipped that users cannot see, a speed claim with no measurement, a change that needs user action but has no steps, a known issue that names a feature missing from the sheet, a feature still behind a switch. The product owner and an engineer check every entry against what shipped before anyone relies on the draft. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a release your team has already written notes for by hand, with hard cases written in advance: an item marked shipped that users cannot see, a speed claim with no measurement, a change that needs user action but has no steps, a known issue that names a feature missing from the sheet, a feature still behind a switch. The product owner and an engineer check every entry against what shipped before anyone relies on the draft. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,10 +89,10 @@ Testing in your environment means running it on a release your team has already 
 
 ## Related workflow templates
 
-- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/)
-- [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/)
-- [Help article from a resolved issue](https://fullypowered.ai/workflows/help-article-from-a-resolved-issue/)
+- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft)
+- [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft)
+- [Help article from a resolved issue](https://fullypowered.ai/workflows/help-article-from-a-resolved-issue/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-release-notes-draft&from=gh-release-notes-draft).
