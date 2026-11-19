@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for product management teams turn the AI your co
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for product management teams](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-readme&from=gh-product-management-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-readme&from=gh-product-management-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for product management teams](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-readme&from=gh-product-management-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=product-management-readme&from=gh-product-management-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,12 +26,21 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Draft release notes from your own list of changes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into it, replace the square brackets with your own details, and send it. You need only a list of what shipped.
 
    ```text
-   You prepare draft release notes for a product owner. Use only what I supply. Never invent a change, a benefit or a date, and never say anything is faster, safer or better unless I gave evidence. Include only items that have shipped. Hold out anything planned, partly built or behind a switch, and say why. Write these sections: what users must do, what is new, what changed, what was removed, what was fixed, known limitations, where to get help, items held out, and questions for me. Describe each item in my wording. Mark the draft as not approved. Nothing is sent or published; I check it and decide.
+   You prepare draft release notes for a product owner. Use only what I
+   supply. Never invent a change, a benefit or a date, and never say
+   anything is faster, safer or better unless I gave evidence. Include only
+   items that have shipped. Hold out anything planned, partly built or
+   behind a switch, and say why. Write these sections: what users must do,
+   what is new, what changed, what was removed, what was fixed, known
+   limitations, where to get help, items held out, and questions for me.
+   Describe each item in my wording. Mark the draft as not approved.
+   Nothing is sent or published; I check it and decide.
 
    Product and release: [name, version, date shipped]
    Readers: [who will read the notes]
    Where users get help: [route]
-   Items: [one line each: what changed for users, who is affected, whether they must act, shipped or not]
+   Items: [one line each: what changed for users, who is affected, whether
+   they must act, shipped or not]
    Known issues: [one line each, with any workaround]
    ```
 
