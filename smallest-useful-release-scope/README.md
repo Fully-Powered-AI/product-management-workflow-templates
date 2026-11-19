@@ -4,6 +4,8 @@ A product owner or founder with more features than capacity gets one page: what 
 
 *Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/smallest-useful-release-scope/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/smallest-useful-release-scope/?from=gh-smallest-useful-release-scope)
+
 ## The outcome
 
 The feature list stops being a wish list and becomes a first release with a purpose. You state one thing a user should be able to do when the release ships, and every feature is placed against it: in because the user cannot get there without it, or deferred with a stated reason and what the user does in the meantime. Where the capacity you supplied is exceeded, the page says by how much and what each possible removal would cost, and leaves the choice to you.

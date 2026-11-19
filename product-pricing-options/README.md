@@ -4,6 +4,8 @@ A product owner weighing how to price or package a product gets one options brie
 
 *Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/product-pricing-options/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/product-pricing-options/?from=gh-product-pricing-options)
+
 ## The outcome
 
 The product owner walks into the pricing conversation with the options side by side and the evidence behind them. For each customer group the brief shows what they actually use, so the choice of what a price should scale with is made on data. For each option it shows what every account would be billed against what it pays today, how many accounts pay more, the same or less, and the gross margin where approved costs were supplied.

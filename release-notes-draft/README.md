@@ -4,6 +4,8 @@ The product owner gets draft release notes for one shipped release, in words use
 
 *Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/release-notes-draft/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/release-notes-draft/?from=gh-release-notes-draft)
+
 ## The outcome
 
 A release lands, and the people who use the product need to know what is different on their screen today. This workflow template turns the sheet of what shipped, the known issues and the glossary into one page written for the reader of the notes, not for the team that built the release.

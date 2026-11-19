@@ -4,6 +4,8 @@ For a product owner whose plan rests on beliefs nobody has tested: each belief i
 
 *Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/assumption-map/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/assumption-map/?from=gh-product-management-assumption-map)
+
 ## The outcome
 
 The product owner sees, on one page, what the plan is standing on. Every plan item is listed with the beliefs behind it, and every belief carries one of four marks: held, thin, contradicted or none. The mark follows a fixed rule from the evidence you supply, so a friendly interview cannot stand in for something people did, and bad news cannot be left out.

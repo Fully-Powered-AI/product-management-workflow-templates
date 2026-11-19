@@ -4,6 +4,8 @@ Hand a developer or agency a story with its definition of done written down: tes
 
 *Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/acceptance-criteria-sheet/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/acceptance-criteria-sheet/?from=gh-acceptance-criteria-sheet)
+
 ## The outcome
 
 The people building a feature and the people checking it work from the same sheet. Each line says what the user does, what must happen, and how anyone can see that it did. Where the story is vague, the sheet says so and asks the question, instead of leaving the builder to guess and the owner to find out at review.

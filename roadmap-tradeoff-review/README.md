@@ -4,6 +4,8 @@ When a new priority arrives, the product owner sees what the roadmap would have 
 
 *Workflow template · Product management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/roadmap-tradeoff-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/roadmap-tradeoff-review/?from=gh-roadmap-tradeoff-review)
+
 ## The outcome
 
 Someone asks for something new, and the answer stops being a feeling. The product owner has one page that says how much each team can take on, how much the request needs, how far short the plan falls, and which planned items could make room under rules written down in advance.
